@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 60px;
+}
+
+.navbar__logo {
+  width: 150px;
+}
+
+.nav__item {
+  margin-left: 20px;
+  color: #000 !important;
+  font-size: 16px !important;
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+
+.nav__item:hover {
+  background: orangered;
+  color: #fff !important;
+  border-radius: 5px;
+}

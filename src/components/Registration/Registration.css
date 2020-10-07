@@ -1,0 +1,26 @@
+.registration {
+  background-color:  #E5E5E5;
+  overflow: hidden;
+}
+
+.form__field {
+  width: 450px;
+  height: 500px;
+  border: 1px solid #ABABAB;
+  background: #fff;
+}
+
+.logo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+
+.logo__img {
+  width: 250px;
+}
+
+.sub__btn {
+  border-radius: 0 !important;
+}

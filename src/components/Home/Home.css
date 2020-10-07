@@ -1,0 +1,16 @@
+.wrap {
+ 
+}
+
+.info__card {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.home__title {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
