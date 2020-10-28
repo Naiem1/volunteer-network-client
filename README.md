@@ -1,4 +1,4 @@
-# Creative Agency MERN Application (client side code)
+# Volenteer Network MERN Application (client-side code)
 
 live project link (https://volunteer-network-project1.web.app/)
 
